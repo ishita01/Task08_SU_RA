@@ -1,0 +1,3 @@
+{{base_data}}
+Hypothesis: Player B is underperforming relative to expectations.
+Task: Analyze whether the hypothesis is supported. Provide evidence for and against strictly from the stats above. Conclude with a yes/no and confidence.

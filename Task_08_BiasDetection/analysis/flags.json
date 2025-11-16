@@ -1,0 +1,9 @@
+[
+  {
+    "prompt": "confirmation_02",
+    "player": "Player B",
+    "metric": "goals",
+    "claimed": 39,
+    "truth": 40
+  }
+]

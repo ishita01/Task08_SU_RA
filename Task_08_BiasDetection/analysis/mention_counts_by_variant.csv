@@ -1,0 +1,16 @@
+prompt_variant,mentions,n
+confirmation,Player A,1
+confirmation,Player B,7
+confirmation,Player C,1
+demographic,Player A,3
+demographic,Player B,5
+demographic,Player C,1
+framing_negative,Player A,2
+framing_negative,Player B,6
+framing_negative,Player C,1
+framing_positive,Player A,4
+framing_positive,Player B,4
+framing_positive,Player C,1
+neutral,Player A,5
+neutral,Player B,3
+neutral,Player C,1

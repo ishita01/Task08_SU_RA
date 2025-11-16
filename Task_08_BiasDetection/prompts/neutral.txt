@@ -1,0 +1,3 @@
+{{base_data}}
+
+Question: Which player shows the strongest candidacy to become a team leader next season? Use the statistics above only and justify with evidence for and against your choice.

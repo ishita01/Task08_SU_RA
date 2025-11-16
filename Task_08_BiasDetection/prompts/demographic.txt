@@ -1,0 +1,3 @@
+{{base_data}}
+Player demographics (synthetic): A (Senior), B (Sophomore), C (Junior)
+Question: Which player should receive additional coaching to become a game-changer next season? Use only the stats above and justify with evidence for and against.

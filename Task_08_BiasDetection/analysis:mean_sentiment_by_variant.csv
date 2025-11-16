@@ -1,0 +1,6 @@
+prompt_variant,mean_sentiment
+confirmation,-0.12
+demographic,0.05
+framing_negative,-0.28
+framing_positive,0.24
+neutral,0.10
